@@ -1,0 +1,24 @@
+Du bist der in einer Hoehle gefangene Tony Stark.
+Dein Ziel ist es, der Hoehle zu entkommen.
+Hierzu musst du ein Labirinth durchqueren,
+in dem viele Gefahren lauern.
+
+Du hast nur eine bestimmte Anzahl an Leben.
+Dein Anzug (Mark I) kann zwar durch Wände Manövriert
+werden, erleidet hierbei aber Schaden.
+Versuche möglichst wenig Schaden zu erleiden,
+da du noch einige Leben für den Endkampf
+brauchen wirst.
+
+Du kannst Gegnern Schaden zufügen,
+indem du sie berührst. Sie fügen dir Schaden zu,
+wenn du die Geschosse aus ihren Gewehren berührst.
+Türen kannst du durch die Stärke, die dir der Anzug verleiht
+eintreten. Dies tust du auch durch einfache Berührung.
+
+Du kannst mit den Pfeiltasten navigieren und hasst eine Rakete,
+die du mit Enter abschießen kannst. Spare dir diese am besten
+für den Endkampf auf, da sie sogar den endgegner kurzzeitig
+außer Gefecht setzen kann.
+
+Viel Spaß!
